@@ -1,0 +1,15 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/tables/SimpleTable.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "apollo-boost": "0.4.4",
+    "graphql": "14.5.4",
+    "react": "latest",
+    "react-apollo": "3.1.0",
+    "react-dom": "latest"
+  }
+}
